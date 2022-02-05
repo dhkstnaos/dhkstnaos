@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhkstnaos&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhkstnaos&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhkstnaos)](https://github.com/anuraghazra/github-readme-stats)
 
