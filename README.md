@@ -6,7 +6,7 @@
 * 디비 이중화(읽기 전용 and 쓰기, 수정, 삭제 전용)
 * Nosql 대표적인 [몽고디비](https://crazy-horse.tistory.com/97)
 * 스프링 코틀린
-* TDD(필수)
+* TDD
 * MSA 공부
 * 스프링 배치 잡
 * 웹소켓 이해
