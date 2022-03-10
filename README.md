@@ -13,7 +13,7 @@
 
 ## 읽어볼 책
 * 이펙티브 자바
-* 클린코드
+* 클린코드⚡︎
 * 리팩토링 2판
 * 대규모 시스템 설계
 * 데이터 중심 어플리케이션 설계
@@ -27,4 +27,7 @@
 
 ## 📃 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhkstnaos&count_private=true&show_icons=true&theme=highcontrast)
+
+## ⚡︎ Language Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/dhkstnaos/github-readme-stats)
 
