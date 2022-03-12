@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Shark&color=timeGradient&height=190&section=header&text=Hello%20I'm%20frank&fontSize=40&animation=twinkling)  
+![header](https://capsule-render.vercel.app/api?type=Shark&color=timeGradient&height=190&section=header&text=Hello%20I'm%20frank&fontSize=30&animation=twinkling)  
 
 ## ⚒️ SKILLS
 
