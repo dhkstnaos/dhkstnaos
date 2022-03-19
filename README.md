@@ -25,7 +25,6 @@
 * 코틀린 인 액션
 
 ## 💿 Activities
-* 코딩테스트 스터디(2021/07/25 ~ 2021/12/11)
 * [아거 프로젝트](https://github.com/a-ger/a-ger-backend)(2022/01/01 ~ ing)
 * [CS 스터디](https://ager-study.notion.site/CS-257abd5f2c754e43af2cf1f54c4726b4)(2022/02/25 ~ ing) 
 
