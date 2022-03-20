@@ -10,8 +10,7 @@
 * [스프링 코틀린](https://github.com/dhkstnaos/kotlinTest) || [기초 사용법](https://crazy-horse.tistory.com/category/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8/%EC%BD%94%ED%8B%80%EB%A6%B0)
 * TDD
 * MSA 공부
-* 카프카 & ELK 로그 
-* 스프링 배치 잡
+* 카프카 & 
 * GRPC
 * 도커 & 쿠버네티스
 * GraphQL
