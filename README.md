@@ -8,9 +8,7 @@
 * [디비 이중화(읽기 전용 and 쓰기, 수정, 삭제 전용)](https://crazy-horse.tistory.com/category/%EC%96%B8%EC%96%B4%20%26%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/%EB%A0%88%EB%94%94%EC%8A%A4)
 * [몽고디비](https://crazy-horse.tistory.com/97)
 * [스프링 코틀린](https://github.com/dhkstnaos/kotlinTest) || [기초 사용법](https://crazy-horse.tistory.com/category/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8/%EC%BD%94%ED%8B%80%EB%A6%B0)
-* TDD
-* 카프카 & 배치
-* GRPC
+* 카프카 & 큐
 * 도커 & 쿠버네티스
 
 ## 읽어볼 책
@@ -23,7 +21,6 @@
 
 ## 💿 Activities
 * [아거 프로젝트](https://github.com/a-ger/a-ger-backend)(2022/01/01 ~ ing)
-* [CS 스터디](https://ager-study.notion.site/CS-257abd5f2c754e43af2cf1f54c4726b4)(2022/02/25 ~ ing) 
 
 
 ## 📃 GitHub Stats
