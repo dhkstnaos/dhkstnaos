@@ -21,7 +21,7 @@
 
 ## 💿 Activities
 * [아거 프로젝트](https://github.com/a-ger/a-ger-backend)(2022/01/01 ~ 2022/03)
-* 프로그래머스 (2022/03 ~ 진행 중)
+* 프로그래머스 백엔드 데브코스 (2022/03 ~ 진행 중)
 
 ## 📃 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhkstnaos&count_private=true&show_icons=true&theme=highcontrast)
