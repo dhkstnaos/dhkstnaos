@@ -7,7 +7,7 @@
 ## 앞으로 공부해볼 기술 22.03.02
 * 디비 이중화 [블로그](https://crazy-horse.tistory.com/category/%EC%96%B8%EC%96%B4%20%26%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/%EB%A0%88%EB%94%94%EC%8A%A4)
 * 몽고디비 [블로그](https://crazy-horse.tistory.com/97) [깃허브](https://github.com/dhkstnaos/mongo-test)
-* 스프링 코틀린 [깃허브](https://github.com/dhkstnaos/kotlinTest) || [블로그](https://crazy-horse.tistory.com/category/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8/%EC%BD%94%ED%8B%80%EB%A6%B0)
+* 스프링 코틀린 [블로그](https://crazy-horse.tistory.com/category/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8/%EC%BD%94%ED%8B%80%EB%A6%B0) ||  [깃허브](https://github.com/dhkstnaos/kotlinTest)
 * 카프카 [블로그](https://crazy-horse.tistory.com/category/%EC%96%B8%EC%96%B4%20%26%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/%EC%B9%B4%ED%94%84%EC%B9%B4) [깃허브](https://github.com/dhkstnaos/kakfa-test)
 * 도커 & 쿠버네티스
 
