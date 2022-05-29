@@ -15,6 +15,7 @@
 * 이펙티브 자바
 * 클린코드 [깃허브](https://github.com/dhkstnaos/Book-Review/tree/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C)
 * 대규모 시스템 설계 [깃허브](https://github.com/dhkstnaos/Book-Review/tree/main/%EB%8C%80%EA%B7%9C%EB%AA%A8%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84)
+* 모던자바인액션 [깃허브](https://github.com/dhkstnaos/Book-Review/tree/main/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%9D%B8%EC%95%A1%EC%85%98)
 * 코틀린 인 액션
 
 ## 💿 Activities
