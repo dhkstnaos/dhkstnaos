@@ -24,7 +24,3 @@
 
 ## 📃 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhkstnaos&count_private=true&show_icons=true&theme=highcontrast)
-
-## ⚡︎ Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhkstnaos&hide=javascript,html,Mustache,Css&layout=compact)](https://github.com/dhkstnaos/github-readme-stats)
-
