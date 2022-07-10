@@ -16,7 +16,6 @@
 * 모던자바인액션 [실습](https://github.com/dhkstnaos/modern-java-8), [정리](https://github.com/dhkstnaos/Book-Review/tree/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98)
 * 대규모 시스템 설계 [정리](https://github.com/dhkstnaos/Book-Review/tree/main/%EB%8C%80%EA%B7%9C%EB%AA%A8%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84)
 * 이펙티브 자바
-* 코틀린 인 액션
 
 ## 💿 Activities
 * [에어비앤비 클론](https://github.com/prgrms-be-devcourse/BE-02-Airbnb/tree/develop)(2022/06~2022/07)
