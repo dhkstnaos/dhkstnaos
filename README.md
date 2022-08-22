@@ -1,7 +1,3 @@
-## ⚒️ SKILLS
-
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=black"><img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=springboot&logoColor=black"><img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black"><img src="https://img.shields.io/badge/POSGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=black"><img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=black"><img src="https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=black"><img src="https://img.shields.io/badge/Amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=black"><img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=black"><img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=black"><img src="https://img.shields.io/badge/github actions-181717?style=for-the-badge&logo=githubactions&logoColor=black"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=black">
-
 ## 앞으로 공부해볼 기술
 * 디비 이중화 [블로그](https://crazy-horse.tistory.com/category/%EC%96%B8%EC%96%B4%20%26%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/%EB%A0%88%EB%94%94%EC%8A%A4)
 * 몽고디비 [블로그](https://crazy-horse.tistory.com/97) [깃허브](https://github.com/dhkstnaos/mongo-test)
