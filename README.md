@@ -13,6 +13,7 @@
 * 이펙티브 자바
 
 ## 💿 Activities
+* [마켓컬리 해커톤](https://github.com/prgrms-web-devcourse/Team_09_p2p_BE)(2022/08/19~2022/08/24)
 * [이곳저곳](https://github.com/prgrms-web-devcourse/Team_09_p2p_BE)(2022/07~2022/08)
 * [에어비앤비 클론](https://github.com/prgrms-be-devcourse/BE-02-Airbnb/tree/develop)(2022/06~2022/07)
 * 프로그래머스 백엔드 데브코스 (2022/03 ~ 2022/08)
