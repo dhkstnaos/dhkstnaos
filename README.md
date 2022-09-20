@@ -1,3 +1,7 @@
+## 📽 About Me
+* <a href="https://dhkstnaos.notion.site/_-a234426c255a41b4bde26b9ef8e4ffd7">Portfolio</a>  
+* <a href="https://crazy-horse.tistory.com/">Blog</a>
+
 ## 💿 Activities
 * [마켓컬리 해커톤](https://github.com/Kurly-Flow/Kurly-Flow-BE)(2022/08/19~2022/08/24)
 * [이곳저곳](https://github.com/prgrms-web-devcourse/Team_09_p2p_BE)(2022/07~2022/08) [구경하기](https://team-09-p2p-fe.vercel.app/)
