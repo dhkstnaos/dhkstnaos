@@ -3,7 +3,7 @@
 * <a href="https://crazy-horse.tistory.com/">Blog</a>
 
 ## 💿 Activities
-* [마켓컬리 해커톤](https://github.com/Kurly-Flow/Kurly-Flow-BE)(2022/08/19~2022/08/24)
+* [마켓컬리 해커톤](https://github.com/Kurly-Flow/Kurly-Flow-BE)(2022/08/19~2022/08/24) **156개 팀 중 우승**
 * [이곳저곳](https://github.com/prgrms-web-devcourse/Team_09_p2p_BE)(2022/07~2022/08) [구경하기](https://team-09-p2p-fe.vercel.app/)
 * [에어비앤비 클론](https://github.com/prgrms-be-devcourse/BE-02-Airbnb/tree/develop)(2022/06~2022/07)
 * 프로그래머스 백엔드 데브코스(2022/03 ~ 2022/08)
