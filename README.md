@@ -15,9 +15,3 @@
 * [모던 자바 인 액션](https://github.com/dhkstnaos/Book-Review/tree/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98)
 * [실전 아파치 카프카](https://github.com/dhkstnaos/Book-Review/tree/main/%EC%8B%A4%EC%A0%84%20%EC%95%84%ED%8C%8C%EC%B9%98%20%EC%B9%B4%ED%94%84%EC%B9%B4)
 * [클린 코드](https://github.com/dhkstnaos/Book-Review/tree/main/%ED%81%B4%EB%A6%B0%20%EC%BD%94%EB%93%9C)
-
-
-## 📃 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhkstnaos&count_private=true&show_icons=true&theme=highcontrast)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhkstnaos&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
